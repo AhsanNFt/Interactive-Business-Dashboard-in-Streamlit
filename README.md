@@ -81,8 +81,8 @@ Data cleaning steps performed in `app.py`:
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/your-username/superstore-dashboard.git
-cd superstore-dashboard
+git clone https://github.com/AhsanNFt/Interactive-Business-Dashboard-in-Streamlit.git
+cd Interactive-Business-Dashboard-in-Streamlit
 
 # 2. Create virtual environment (optional but recommended)
 python -m venv venv
@@ -147,7 +147,7 @@ Open a pull request for review.
 
 ## 📬 Contact
 
-- **GitHub**: [YourGitHubUsername](https://github.com/your-username)
-- **Email**: your-email@example.com
+- **GitHub**: ` AhsanNFt`
+- **Email**: syedahsan0991@gmail.com
 
 > _Designed with ❤️ — Interactive BI Dashboard | Streamlit | Global Superstore Dataset_
