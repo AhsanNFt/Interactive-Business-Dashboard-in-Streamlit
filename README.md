@@ -147,7 +147,7 @@ Open a pull request for review.
 
 ## 📬 Contact
 
-- **GitHub**: ` AhsanNFt`
+- **GitHub**: `AhsanNFt`
 - **Email**: syedahsan0991@gmail.com
 
 > _Designed with ❤️ — Interactive BI Dashboard | Streamlit | Global Superstore Dataset_
